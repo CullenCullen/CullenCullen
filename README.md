@@ -2,9 +2,11 @@
 -  I am in my final year at Tidewater Community College for Computer Sceince.
 -  Before studying CS, I completed two certificates at the college. One in Mobile Applications Development and 
 the other in Web Development. 
+
+I greatly enjoy the problem-solving and creative aspects of programming.
+
   
 Courses taken:
-
 - Software Design
 - Structured Query Language
 - Java Programming 1
@@ -17,5 +19,5 @@ Courses taken:
 - Web Design 2 (Web Development Portfolio)
 
 
-- 💞️ I am looking to find work as a junior developer or a fulltime internship position. 
+I am looking to find work as a junior developer or a fulltime internship position. 
 
