@@ -6,7 +6,7 @@ the other in Web Development.
 I greatly enjoy the problem-solving and creative aspects of programming. 
 
 Last Spring, I was a member of Old Dominion University's Innovate Cyber Cohort.
-This was an experenial learning experience where I worked within a team setting to identify a challenge related to cybersecurity. Using the design approach to problem solving, my team employed User Experience skills and created a prototype project that aimed to solve accessibility challenges to learning safe Cyber Security practices. Although there was no coding involved with this experience, it taught me the importance of understanding users and how to innovate a solution to resolve their painpoints. I learned that technology is a powerful tool that can be used for progress and change.
+Innovate Cyber was an experiential learning experience where I worked within a team setting to identify user challenges related to cybersecurity. Using the design approach to problem-solving, my team employed User Experience skills and created a prototype project to alleviate accessibility challenges to learning safe Cyber Security practices. Although no coding involved with this experience, it taught me the importance of understanding users and how to innovate a solution to resolve their pain-points. I learned how to use technology for implementing positive change and solutions.
 
 I look forward to continuing my studies and gaining more exposure to the field of CS. 
 
