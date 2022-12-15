@@ -19,5 +19,3 @@ Courses taken:
 - Web Design 2 (Web Development Portfolio)
 
 
-I am looking to find work as a junior developer or a fulltime internship position. 
-
