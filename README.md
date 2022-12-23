@@ -19,7 +19,7 @@ Courses taken:
 - Client-Side Scripting (JavaScript)
 - Interactive Web Design (Full Stack Engineering)
 - Mobile Java Android Development
-- Designing Web Page Graphics
+- Designing Web Page Graphics (Photoshop)
 - Web Design 1 (HTML5/CSS3)
 - Web Design 2 (Web Development Portfolio)
 
