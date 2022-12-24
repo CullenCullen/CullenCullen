@@ -1,7 +1,8 @@
 Hello, I’m Cullen 👋
-I study Computer Science at Tidewater Community College. This is my final year before heading to a four year university. 
-Before studying CS, I completed two certificates at the college. One in Mobile Applications Development and 
-the other in Web Development.
+I study Computer Science at Tidewater Community College.
+This is my final year before heading to a four year university. 
+Before studying CS, I completed a Bachelor's Degree in Speech Pathology (Communications Sciences and Disorders) from James Madison University. 
+Having previous degree experience in the Health Sciences makes my approach to programming both diagnostic and human centered. I'm able to discern user needs easily (even when not explicitly stated) and implement solutions that create value. 
 
 What motivates me to code is the constant creativity, learning, and problem solving. 
 
