@@ -23,5 +23,6 @@ Courses taken:
 - Designing Web Page Graphics (Photoshop)
 - Web Design 1 (HTML5/CSS3)
 - Web Design 2 (Web Development Portfolio)
+- CSC 221 Python
 
 
